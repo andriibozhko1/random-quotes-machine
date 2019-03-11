@@ -2,6 +2,7 @@
   "name": "random-quotes-machine",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://andriibozhko1.github.io/random-quotes-machine/",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
