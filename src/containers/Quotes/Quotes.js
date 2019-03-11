@@ -22,17 +22,15 @@ export default class Quotes extends Component {
     this.setState({ quotes });
   }
 
-  changeCurrentQuote = (test) => {
+  changeCurrentQuote = (newCurrentQuoteId) => {
     return () => {
-      const currentQuoteId = Math.max(0, Math.min(this.state.quotes.length - 1, test))
-      console.log(test)
+      const currentQuoteId = Math.max(0, Math.min(this.state.quotes.length - 1, newCurrentQuoteId))
       this.setState({currentQuoteId})
     }
   }
 
   render() {
     window.scrollTo(0,0)
-    console.log(this.currentQuote);
     if (this.state.quotes.length === 0) {
       return <Loader />;
     }
