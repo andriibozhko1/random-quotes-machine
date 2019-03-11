@@ -12,31 +12,31 @@ self.__precacheManifest = [
     "url": "/random-quotes-machine/static/js/main.b98c7a2a.chunk.js"
   },
   {
-    "revision": "d0002ac30f1881a4debb",
-    "url": "/random-quotes-machine/static/js/runtime~main.3e013a71.js"
+    "revision": "4f0f87a3e2baafe01422",
+    "url": "/random-quotes-machine/static/js/runtime~main.d12e1280.js"
   },
   {
     "revision": "bdc9063513ee3d9becb2",
     "url": "/random-quotes-machine/static/js/3.38f51d39.chunk.js"
   },
   {
-    "revision": "4ad5c94699f8aa7a7f9a",
+    "revision": "09e66db968b397d09f73",
     "url": "/random-quotes-machine/static/css/4.8b5f4fac.chunk.css"
   },
   {
-    "revision": "4ad5c94699f8aa7a7f9a",
-    "url": "/random-quotes-machine/static/js/4.c3cc20c8.chunk.js"
+    "revision": "09e66db968b397d09f73",
+    "url": "/random-quotes-machine/static/js/4.41995f46.chunk.js"
   },
   {
-    "revision": "8014e7695124092d9db6",
+    "revision": "2c05c79b4cbb3b4dac50",
     "url": "/random-quotes-machine/static/css/5.b478d98d.chunk.css"
   },
   {
-    "revision": "8014e7695124092d9db6",
-    "url": "/random-quotes-machine/static/js/5.f9d10749.chunk.js"
+    "revision": "2c05c79b4cbb3b4dac50",
+    "url": "/random-quotes-machine/static/js/5.1b5b8df7.chunk.js"
   },
   {
-    "revision": "a0cceb16e942df7123a47b22af3cea3e",
+    "revision": "4f2d5336172d147dd8df5036d8873765",
     "url": "/random-quotes-machine/index.html"
   }
 ];
