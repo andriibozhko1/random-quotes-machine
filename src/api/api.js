@@ -1,6 +1,6 @@
 const api = {
    async getTagList() {
-    const response = await fetch("http://5c869161cc034a0014bd25b1.mockapi.io/tags")
+    const response = await fetch("https://5c869161cc034a0014bd25b1.mockapi.io/tags")
     const result = await response.json();
     
     return result;
