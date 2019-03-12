@@ -21,7 +21,3 @@ const api = {
 };
 
 export default api
-
-
-// https://favqs.com/api/quotes/?filter=funny&type=tag
-// https://favqs.com/api/typeahead
